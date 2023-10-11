@@ -2,7 +2,7 @@
 
 Data science student with experience in Python, Java, R and similar data science languages and technologies. Passionate about data science and data visualization.
 
-## Tecnologías:
+## Technologies:
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
@@ -18,6 +18,12 @@ Data science student with experience in Python, Java, R and similar data science
 </br>
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
+</br>
+
+## Contact me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Guilló-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/braismoure](https://www.linkedin.com/in/pablo-guill%C3%B3-jim%C3%A9nez-270981230))
+[![Kaggle](https://img.shields.io/badge/Kaggle-Pablo_Guill%C3%B3-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=101010)](https://www.kaggle.com/pguillo02)
 </br>
 
 ## ⚙️ &nbsp;GitHub Analytics
