@@ -20,7 +20,7 @@ Data science student with experience in Python, Java, R and similar data science
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 </br>
 
-## Contact me:
+## You can find me in:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Guilló-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/braismoure](https://www.linkedin.com/in/pablo-guill%C3%B3-jim%C3%A9nez-270981230))
 [![Kaggle](https://img.shields.io/badge/Kaggle-Pablo_Guill%C3%B3-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=101010)](https://www.kaggle.com/pguillo02)
