@@ -4,27 +4,45 @@ Data science student with experience in Python, Java, R and similar data science
 
 ## Technologies:
 
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)]()
-[![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)]()
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white&labelColor=000000)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white&labelColor=F37626)
+![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white&labelColor=44A833)
 </br>
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010)]()
-[![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&labelColor=101010)]()
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=276DC3)]()
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white&labelColor=75AADB)
+![ggplot2](https://img.shields.io/badge/ggplot2-EE7733?style=for-the-badge&logo=R&logoColor=white&labelColor=EE7733)
 </br>
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=007396)]()
+[![IntelliJ Idea](https://img.shields.io/badge/IntelliJ_Idea-0071C5?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=1B6AC6)]()
+[![Netbeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=1B6AC6)]()
 </br>
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-FF6600?style=for-the-badge&logo=oracle&logoColor=white&labelColor=FF6600)
+</br>
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=3DDC84)]()
+</br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
+</br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white&labelColor=294172)
 </br>
 
 ## You can find me in:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Guilló-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pablo-guill%C3%B3-jim%C3%A9nez-270981230/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Pablo_Guill%C3%B3-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=101010)](https://www.kaggle.com/pguillo02)
-[![Email](https://img.shields.io/badge/pabloguilloprofesional@gmail.com-Professional_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:pabloguilloprofesional@gmail.com)
+<a href="https://www.linkedin.com/in/pablo-guilló-jiménez-270981230" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.kaggle.com/pguillo02" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+<a href="mailto:pabloguilloprofesional@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Professional Email-0077B5?style=for-the-badge&logo=email&logoColor=white" />
+</a>
 </br>
 
 ## ⚙️ &nbsp;GitHub Analytics
