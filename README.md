@@ -37,7 +37,7 @@ Data science student with experience in Python, Java, R and similar data science
 
 ## You can find me in:
 
-<a href="https://www.linkedin.com/in/pablo-guilló-jiménez-270981230" target="_blank">
+<a href="https://www.linkedin.com/in/pabloguillojimenez" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
