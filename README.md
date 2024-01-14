@@ -20,6 +20,7 @@ Data science student with experience in Python, Java, R and similar data science
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white&labelColor=C71A36)
 </br>
 ![Oracle DB](https://img.shields.io/badge/Oracle_DB-FF6600?style=for-the-badge&logo=oracle&logoColor=white&labelColor=FF6600)
+[![SQL Badge](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white&labelColor=025E8C)](link-to-your-sql-project)
 </br>
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)]()
