@@ -26,10 +26,6 @@ Data science student with experience in Python, Java, R and similar data science
 ![Oracle DB](https://img.shields.io/badge/Oracle_DB-FF6600?style=for-the-badge&logo=oracle&logoColor=white&labelColor=FF6600)
 [![SQL Badge](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white&labelColor=025E8C)](link-to-your-sql-project)
 </br>
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=3DDC84)]()
-</br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](link-to-your-github)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
