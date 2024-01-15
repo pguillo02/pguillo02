@@ -22,10 +22,10 @@ Data science student with experience in Python, Java, R and similar data science
 [![ggplot2](https://img.shields.io/badge/ggplot2-EE7733?style=for-the-badge&logo=R&logoColor=white&labelColor=EE7733)](https://ggplot2.tidyverse.org/)
 [![gganimate](https://img.shields.io/badge/gganimate-FF99CC?style=for-the-badge&logo=R&logoColor=white&labelColor=FF99CC)](https://gganimate.com/)
 </br>
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=007396)]()
-[![IntelliJ Idea](https://img.shields.io/badge/IntelliJ_Idea-0071C5?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=1B6AC6)]()
-[![Netbeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=1B6AC6)]()
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white&labelColor=C71A36)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=007396)](https://www.java.com/es/)
+[![IntelliJ Idea](https://img.shields.io/badge/IntelliJ_Idea-0071C5?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=1B6AC6)](https://www.jetbrains.com/es-es/idea/)
+[![Netbeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=1B6AC6)](https://netbeans.apache.org/front/main/)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white&labelColor=C71A36)](https://maven.apache.org/)
 </br>
 ![Oracle DB](https://img.shields.io/badge/Oracle_DB-FF6600?style=for-the-badge&logo=oracle&logoColor=white&labelColor=FF6600)
 [![SQL Badge](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white&labelColor=025E8C)](link-to-your-sql-project)
