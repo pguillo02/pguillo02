@@ -10,8 +10,8 @@ Data science student with experience in Python, Java, R and similar data science
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)](https://www.python.org/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white&labelColor=000000)](https://www.jetbrains.com/es-es/pycharm/)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white&labelColor=F37626)
-![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white&labelColor=44A833)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white&labelColor=F37626)](https://jupyter.org/)
+[![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white&labelColor=44A833)](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
 </br>
 [![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C)](link-to-pytorch)
 [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00)](link-to-tensorflow)
