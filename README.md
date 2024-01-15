@@ -17,10 +17,10 @@ Data science student with experience in Python, Java, R and similar data science
 [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00)](https://www.tensorflow.org/?hl=es-419)
 [![Keras Badge](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=D00000)](https://keras.io/)
 </br>
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=276DC3)]()
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white&labelColor=75AADB)
-![ggplot2](https://img.shields.io/badge/ggplot2-EE7733?style=for-the-badge&logo=R&logoColor=white&labelColor=EE7733)
-![gganimate](https://img.shields.io/badge/gganimate-FF99CC?style=for-the-badge&logo=R&logoColor=white&labelColor=FF99CC)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=276DC3)](https://www.r-project.org/)
+[![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white&labelColor=75AADB)](https://www.r-project.org/)
+[![ggplot2](https://img.shields.io/badge/ggplot2-EE7733?style=for-the-badge&logo=R&logoColor=white&labelColor=EE7733)](https://ggplot2.tidyverse.org/)
+[![gganimate](https://img.shields.io/badge/gganimate-FF99CC?style=for-the-badge&logo=R&logoColor=white&labelColor=FF99CC)](https://gganimate.com/)
 </br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=007396)]()
 [![IntelliJ Idea](https://img.shields.io/badge/IntelliJ_Idea-0071C5?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=1B6AC6)]()
