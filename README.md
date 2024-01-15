@@ -2,7 +2,7 @@
 
 <img align='center' src= https://github.com/pguillo02/pguillo02/blob/main/header-banner.jpg  >
 
-## About me
+## About Me
 
 Data science student with experience in Python, Java, R and similar data science languages and technologies. Passionate about data science and data visualization.
 
