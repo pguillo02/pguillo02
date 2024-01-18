@@ -53,7 +53,7 @@ Data science student with experience in Python, Java, R and similar data science
 </a>
 
 <a href="mailto:pabloguilloprofesional@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Professional Email-0077B5?style=for-the-badge&logo=email&logoColor=white" />
+  <img src="https://img.shields.io/badge/Professional%20Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </br>
 
