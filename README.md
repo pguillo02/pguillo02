@@ -30,6 +30,10 @@ Data science student with experience in Python, Java, R and similar data science
 [![Oracle DB](https://img.shields.io/badge/Oracle_DB-FF6600?style=for-the-badge&logo=oracle&logoColor=white&labelColor=FF6600)](https://www.oracle.com/es/database/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791)](https://www.postgresql.org/)
 </br>
+[![NoSQL](https://img.shields.io/badge/NoSQL-333333?style=for-the-badge)](https://en.wikipedia.org/wiki/NoSQL)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)](https://www.mongodb.com/)
+[![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white&labelColor=008CC1)](https://neo4j.com/)
+</br>
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)](https://git-scm.com/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)](https://www.docker.com/)
