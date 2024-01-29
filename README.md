@@ -35,7 +35,9 @@ Data science student with experience in Python, Java, R and similar data science
 [![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white&labelColor=008CC1)](https://neo4j.com/)
 </br>
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)](https://git-scm.com/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-blue?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+</br>
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)](https://www.docker.com/)
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC)](https://code.visualstudio.com/)
 </br>
