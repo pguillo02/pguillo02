@@ -26,7 +26,7 @@ Data science student with experience in Python, Java, R and similar data science
 [![IntelliJ Idea](https://img.shields.io/badge/IntelliJ_Idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=000000)](https://www.jetbrains.com/es-es/idea/)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white&labelColor=C71A36)](https://maven.apache.org/)
 </br>
-[![SQL Badge](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white&labelColor=025E8C)]()
+[![SQL Badge](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white&labelColor=025E8C)](https://en.wikipedia.org/wiki/SQL)
 [![Oracle DB](https://img.shields.io/badge/Oracle_DB-FF6600?style=for-the-badge&logo=oracle&logoColor=white&labelColor=FF6600)](https://www.oracle.com/es/database/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791)](https://www.postgresql.org/)
 </br>
