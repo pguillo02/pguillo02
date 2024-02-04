@@ -57,6 +57,10 @@ Data science student with experience in Python, Java, R and similar data science
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 
+<a href="https://www.instagram.com/pguillo02/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 <a href="mailto:pabloguilloprofesional@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Professional%20Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
