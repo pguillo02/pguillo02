@@ -39,6 +39,7 @@ Data science student with experience in Python, Java, R and similar data science
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-blue?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 </br>
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)](https://www.docker.com/)
+[![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)](https://docs.docker.com/compose/)
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC)](https://code.visualstudio.com/)
 </br>
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624)](https://es.wikipedia.org/wiki/GNU/Linux)
