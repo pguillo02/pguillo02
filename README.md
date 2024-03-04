@@ -28,6 +28,7 @@ Data science student with experience in Python, Java, R and similar data science
 </br>
 [![SQL Badge](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white&labelColor=025E8C)](https://en.wikipedia.org/wiki/SQL)
 [![Oracle DB](https://img.shields.io/badge/Oracle_DB-FF6600?style=for-the-badge&logo=oracle&logoColor=white&labelColor=FF6600)](https://www.oracle.com/es/database/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791)](https://www.postgresql.org/)
 </br>
 [![NoSQL](https://img.shields.io/badge/NoSQL-333333?style=for-the-badge)](https://en.wikipedia.org/wiki/NoSQL)
