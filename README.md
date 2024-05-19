@@ -75,3 +75,6 @@ Data science student with experience in Python, Java, R and similar data science
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pguillo02&layout=compact&langs_count=8&theme=highcontrast"/>
 </a>
 </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pguillo02&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
